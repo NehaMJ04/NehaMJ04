@@ -65,6 +65,7 @@
 <div style="clear: both;"></div>
 
 <!--Github stats Table--> 
+<div>
 <h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tbody>
@@ -106,7 +107,7 @@
     </tr>
   </tbody>
 </table>
-
+</div>
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
