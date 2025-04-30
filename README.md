@@ -1,5 +1,5 @@
   <!--Banner-->
-<p><img src="https://github.com/NehaMJ049/NehaMJ049/blob/main/banner.png" alt="NehaMJ049 Banner Image"></p>
+<p><img src="https://github.com/NehaMJ04/NehaMJ04/blob/main/banner.png" alt="NehaMJ04 Banner Image"></p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -13,10 +13,10 @@
 <ul>
 <li>✨ </li>
 <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
-<li>🏙 A lifetime insider and Mentor at <a href="https://exercism.org/profiles/NehaMJ049">Exercism</a>.</li>
+<li>🏙 A lifetime insider and Mentor at <a href="https://exercism.org/profiles/NehaMJ04">Exercism</a>.</li>
 <li>✍ I write technical blogs, You can visit my blog site at <a href="https://dev.to/dev_kiran">DEV</a>.</li>
 <li>❤ Contributing to Open Source.</li>
-<li>💻 Visit my <a href="https://NehaMJ049.github.io">Portfolio</a> for more details about me.</li>
+<li>💻 Visit my <a href="https://NehaMJ04.github.io">Portfolio</a> for more details about me.</li>
 </ul>
 <!--End Intro-->
 <!--Profile Count Badge-->
@@ -63,16 +63,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/NehaMJ049">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=NehaMJ049&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+        <a href="https://github.com/NehaMJ04">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=NehaMJ04&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/NehaMJ049">
-          <img align="center" src="https://streak-stats.demolab.com?user=NehaMJ049&amp;theme=nightowl" alt="Streak Stats">
+        <a href="https://github.com/NehaMJ04">
+          <img align="center" src="https://streak-stats.demolab.com?user=NehaMJ04&amp;theme=nightowl" alt="Streak Stats">
         </a>
       </p>
     </td>
@@ -81,16 +81,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/NehaMJ049/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=NehaMJ049&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+        <a href="https://github.com/NehaMJ04/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=NehaMJ04&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/NehaMJ049">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=NehaMJ049&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
+        <a href="https://github.com/NehaMJ04">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=NehaMJ04&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
         </a>
       </p>
     </td>
@@ -100,7 +100,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaMJ049&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaMJ04&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
 </div>
 <hr>
 <!--Dynamic Quote card updated everyday at 12 PM--> 
@@ -131,5 +131,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
 <hr>
-<p>Credit: <a href="https://github.com/NehaMJ049">NehaMJ049</a></p>
+<p>Credit: <a href="https://github.com/NehaMJ04">NehaMJ04</a></p>
 <p>Last Edited on: 29/11/2023</p> 
