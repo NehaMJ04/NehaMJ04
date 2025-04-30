@@ -1,6 +1,3 @@
-  <!--Banner-->
-<p><img src="https://github.com/NehaMJ04/NehaMJ04/blob/main/banner.png" alt="NehaMJ04 Banner Image"></p>
-<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -11,12 +8,23 @@
 <!--Start Intro-->               
 <p align="left">An IT student and software developer with experience in a diverse set of technologies including Flutter, C, C++, C#, Python, Java, SQL, R, HTML, CSS, JavaScript, TypeScript, PHP, and XML. Well-versed in core concepts such as Data Structures, Discrete Mathematics, and Statistics, with a strong foundation in both programming and problem-solving. </p>
 <ul>
-<li>✨ </li>
+<li>💼 Intern at <strong>Facein Technologies</strong></li>
+  <li>🧑‍💻 Former Intern at <strong>NeST Digital Private Limited</strong> (May 2024)</li>
+  <li>📚 Academic Projects:
+    <ul>
+      <li><strong>DriveLens:</strong> A car sales app built with Flutter, featuring data analysis and an AI-based recommendation system</li>
+      <li><strong>Resume Website:</strong> Personal website built with HTML, CSS, JavaScript, and PHP, integrated with PHPMyAdmin</li>
+      <li><strong>Student Management System:</strong> A Python-based tool to manage academic records (12th Grade project)</li>
+    </ul>
+</li>
+
+<!--
 <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
 <li>🏙 A lifetime insider and Mentor at <a href="https://exercism.org/profiles/NehaMJ04">Exercism</a>.</li>
 <li>✍ I write technical blogs, You can visit my blog site at <a href="https://dev.to/dev_kiran">DEV</a>.</li>
 <li>❤ Contributing to Open Source.</li>
 <li>💻 Visit my <a href="https://NehaMJ04.github.io">Portfolio</a> for more details about me.</li>
+-->
 </ul>
 <!--End Intro-->
 <!--Profile Count Badge-->
@@ -25,6 +33,16 @@
 </p>
 <hr>
 <br>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br/>
+
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
@@ -48,7 +66,7 @@
 <img width="50px" src="https://images.icon-icons.com/2107/PNG/512/file_type_flutter_icon_130599.png">
 
 <!--Phpicon -->
-<img width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
+<img width="85px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
 
 <!--R icon -->
 <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png">
@@ -57,7 +75,7 @@
 </p>
 <br>
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tbody><tr>
     <td width="50%">
@@ -81,8 +99,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/NehaMJ04/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=NehaMJ04&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+        <a href="https://github.com/NehaMJ04/CarSales_dataAnalysis">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=NehaMJ04&amp;repo=CarSales_dataAnalysis&amp;theme=nightowl&amp;show_owner=true" alt="Latest Project">
         </a>
       </p>
     </td>
@@ -113,18 +131,16 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/neha-mary-jayan-327099308/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="mailto:jayannehamary@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="kirannaragund197@gmail.com" mail="" style="margin-bottom: 5px;">
 </a>
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/neha_mary_jayan/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="kiran_a_n" instagram="" style="margin-bottom: 5px;">
 </a>
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;">
-</a>
+
 </div>
 <!--Footer--> 
 <p align="center">
