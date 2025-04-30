@@ -65,8 +65,7 @@
 <div style="clear: both;"></div>
 
 <!--Github stats Table--> 
-<div>
-<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 id="github-stats" align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tbody>
     <tr>
@@ -107,7 +106,7 @@
     </tr>
   </tbody>
 </table>
-</div>
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
@@ -117,7 +116,7 @@
 <hr>
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ �ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&amp;quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&amp;theme=dark&amp;bg_color=011627&amp;author_color=ffeb95" alt="Daily Quote">
