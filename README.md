@@ -65,7 +65,7 @@
 <div style="clear: both;"></div>
 
 <!--Github stats Table--> 
-<h2 id="github-stats" align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h3 id="github-stats" align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h3>
 <table width="100%">
   <tbody>
     <tr>
